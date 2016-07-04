@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[My Friends Call Me Farha]]></title>
         <description><![CDATA[My Friends Call Me Farha]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/my-friends-call-me-farha/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 13:51:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jul 2016 13:51:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/my-friends-call-me-farha/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MotoGP™]]></title>
+            <description><![CDATA[<article><h1>MotoGP™</h1><p>Get the Official App Get ready for the #GP Open Live Timing Get the Official App Get Videopass Get the Official App Get Videopass</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8ffbe151cb582c4444e1864a7824f218/noop.jpg?input=http%3A%2F%2Fphotos.motogp.com%2F2016%2F06%2F17%2F3059_mgp_intw_marquez_en_ok_0.video_list_3x.jpg"></article>]]></description>
+            <link>http://www.motogp.com/</link>
+            <guid isPermaLink="false">3aa37d92-a8dd-4574-ad73-f345f312185b</guid>
+            <pubDate>Mon, 04 Jul 2016 13:51:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Red Bull X-Fighters]]></title>
             <description><![CDATA[<article><h1>Red Bull X-Fighters</h1><p>Red Bull X-Fighters has grown to become the biggest and most respected freestyle motocross tour on the planet, featuring the world's best riders throwing down mad tricks in stunning locations.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b93d8b94affef3ced9e552d03d49a27d/croprotate.jpg?cropheight=675&cropwidth=894&degrees=0&input=http%3A%2F%2Fimage3.redbull.com%2Frbx00348%2F0010%2F1%2F1200%2F675%2F419%2Fcustom%2FRBXF-logo-no-date.jpg&x=146&y=0"></article>]]></description>
