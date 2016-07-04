@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[My Friends Call Me Farha]]></title>
+        <description><![CDATA[My Friends Call Me Farha]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Jul 2016 13:51:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Red Bull X-Fighters]]></title>
+            <description><![CDATA[<article><h1>Red Bull X-Fighters</h1><p>Red Bull X-Fighters has grown to become the biggest and most respected freestyle motocross tour on the planet, featuring the world's best riders throwing down mad tricks in stunning locations.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b93d8b94affef3ced9e552d03d49a27d/croprotate.jpg?cropheight=675&cropwidth=894&degrees=0&input=http%3A%2F%2Fimage3.redbull.com%2Frbx00348%2F0010%2F1%2F1200%2F675%2F419%2Fcustom%2FRBXF-logo-no-date.jpg&x=146&y=0"></article>]]></description>
+            <link>http://www.redbullxfighters.com/</link>
+            <guid isPermaLink="false">c4e80326-4313-4217-84ef-b64ccf4087de</guid>
+            <pubDate>Mon, 04 Jul 2016 13:51:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
