@@ -12,3 +12,5 @@ color:
     - '#FF8C00'
     - '#04756F'
 name: My Friends Call Me Farha
+content_rating:
+  adult: true
