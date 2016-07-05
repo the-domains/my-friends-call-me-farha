@@ -1,16 +1,16 @@
-layout_spectrum: 0.5685495636425912
-typography_spectrum: 0.05764104891568422
+layout_spectrum: 0.25285979453474283
+typography_spectrum: 0.09670406254008412
 color:
-  brandStrength: 0.2694352560210973
-  lightness: 0.7384806682821363
-  saturation: 0.8615583870559931
-  rhythmicContrast: 0.07598932879045606
+  brandStrength: 0.4794478318654001
+  lightness: 0.4453962475527078
+  saturation: 0.4918618069496006
+  rhythmicContrast: 0.21060223341919482
   brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
 name: My Friends Call Me Farha
 content_rating:
   adult: true
